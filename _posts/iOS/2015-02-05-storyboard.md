@@ -10,22 +10,25 @@ tags : [storyboard]
 这么多设备(iPhone4S,iPhone5/5s,iPhone6,iPhone6 Plus,iPad,Apple Watch)的尺寸，就通过Size Classes简单的表达出来了：
 
 ***
-    iPhone4S,iPhone5/5s,iPhone6
+iPhone4S,iPhone5/5s,iPhone6
 
         竖屏：(w:Compact h:Regular)
 
         横屏：(w:Compact h:Compact)
-   iPhone6 Plus
+
+iPhone6 Plus
 
         竖屏：(w:Compact h:Regular)
 
         横屏：(w:Regular h:Compact)
-   iPad
+
+iPad
 
         竖屏：(w:Regular h:Regular)
 
         横屏：(w:Regular h:Regular)
-    Apple Watch(猜测)
+
+Apple Watch(猜测)
 
         竖屏：(w:Compact h:Compact)
 
