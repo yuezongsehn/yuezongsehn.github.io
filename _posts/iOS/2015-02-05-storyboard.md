@@ -37,5 +37,5 @@ Apple Watch(猜测)
         横屏：(w:Compact h:Compact)
 
 
-设备的各个尺寸
+设备的各个尺寸的对应
 
